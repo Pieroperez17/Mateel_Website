@@ -1,0 +1,19 @@
+:root {
+  font-family: sans-serif;
+  color-scheme: light dark;
+  background-color: #120f05;
+  color: #ffffff;
+
+}
+
+
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin: 0;
+  overflow: auto;
+}
+
